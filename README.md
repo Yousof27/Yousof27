@@ -1,13 +1,14 @@
 <!-- 🔥 BANNER -->
-<img src="banner.png" alt="Youssef Kamal Banner" style="width:100%; border-radius: 8px;" />
+<img src="banner.png" alt="Youssef Kamal Banner" />
 
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0ea5e9;">Youssef Kamal</span></h1>
-<h3 align="center">🎓 Front-End Developer | React Enthusiast | Tech Explorer</h3>
+<h1>👋 Hey, I'm <span style="color:#0ea5e9;">Youssef Kamal</span></h1>
+<h3>🎓 Front-End Developer | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+developer+%F0%9F%92%BB;Problem+solver+%F0%9F%A7%A0" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=435&lines=Problem+solver+%F0%9F%A7%A0;Building+Modern+Web+UIs+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 ---
 
