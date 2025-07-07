@@ -68,7 +68,7 @@
 ## 📫 Let’s Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/youssef-kamal-1-front-end-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/yousof-kamal-helmy" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yousofkamal24@email.com" target="_blank">
