@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=435&lines=Problem+solver+%F0%9F%A7%A0;Building+Modern+Web+UIs+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🧠 About Me
@@ -19,6 +18,12 @@
 - ⚙️ Built a full-stack **medical + e-commerce platform** with AI-powered diagnosis & AR-based virtual try-on
 - 📱 Collaborated with AI, Flutter, and .NET teams in my graduation project
 - 🌱 Currently learning **Next.js** and **advanced React patterns**
+
+---
+
+## 📄 Download My CV
+
+[![CV Badge](https://img.shields.io/badge/-View%20CV-0ea5e9?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
 
 ---
 
