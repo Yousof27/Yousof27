@@ -23,7 +23,7 @@
 
 ## 📄 Download My CV
 
-[![CV Badge](https://img.shields.io/badge/-View%20CV-0ea5e9?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Qyws55RT3In8XMjInamIUddN4ptFYmEd/view?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/-View%20CV-0ea5e9?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1vGfRyU5Q_-kLPXzPE0GcpDckTztVUhGE/view?usp=sharing)
 
 ---
 
